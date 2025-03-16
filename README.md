@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br> 
   <img align="center" height="110" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" height="110" width="120" src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" />
+  <img align="center" height="110" width="120" src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png" />
 </div>
 
 ##
