@@ -1,9 +1,9 @@
-## Oi!! Eu sou Frederico Gregório
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8dba352a-637b-4f48-b79c-9bc37729da43" />## Oi!! Eu sou Frederico Gregório
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredGregorio&show_icons=true&theme=highcontrast)](https://github.com/FredGregorio/github-readme-stats)
 ##
 
 <div style="display: inline_block"><br> 
-<img align="center" height="110" width="120" src= "https://avatars.githubusercontent.com/u/64278475?s=280&v=4" />
+<img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/8eba4a35-cf80-47c2-aa21-dab42fa6d3f1" /> 
 <img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/ed91bc87-1457-4c84-960a-e6544801f6bd" />
 <img align="center" height="110" width="120" src= "https://avatars.githubusercontent.com/u/64278475?s=280&v=4" />
 <img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/f54cf6d7-613c-49f9-978c-42253bbd7239" />  
