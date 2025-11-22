@@ -1,9 +1,9 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/ed91bc87-1457-4c84-960a-e6544801f6bd" />## Oi!! Eu sou Frederico Gregório
+/>## Oi!! Eu sou Frederico Gregório
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredGregorio&show_icons=true&theme=highcontrast)](https://github.com/FredGregorio/github-readme-stats)
 ##
 
 <div style="display: inline_block"><br> 
-   <img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/fed439e2-80ed-4337-93a5-dbd1ca33efa9" /> 
+   <img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/ed91bc87-1457-4c84-960a-e6544801f6bd" /> 
   <img align="center" height="110" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" height="110" width="120" src="https://images.ctfassets.net/frd5oskxgr96/16e2P31DJ0brzyiwNvC564/1fa51988d47f3572d9efd14f15dc2246/Vercel_logo_PNG_clr.svg" />
 
