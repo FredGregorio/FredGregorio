@@ -1,4 +1,4 @@
-/>## Oi!! Eu sou Frederico Gregório
+## Oi!! Eu sou Frederico Gregório
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredGregorio&show_icons=true&theme=highcontrast)](https://github.com/FredGregorio/github-readme-stats)
 ##
 
