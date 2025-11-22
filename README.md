@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br> 
   <img align="center" height="110" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" height="110" width="120" src="https://cdn.jsdelivr.net/npm/devicon-react-svg@0.2.4/dist/devicon-react-svg" />
+  <img align="center" height="110" width="120" src="https://cdn.jsdelivr.net/npm/devicon-react-svg@0.2.4/dist/devicon-react-svg.min.js" />
 </div>
 
 ##
