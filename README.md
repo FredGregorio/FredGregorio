@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br> 
   <img align="center" height="110" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" height="110" width="120" src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png" />
+  <img align="center" height="110" width="120" src="[https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png](https://www.freecodecamp.org/portuguese/news/content/images/2023/03/Ekran-Resmi-2019-11-18-18.08.13.png)" />
 </div>
 
 ##
