@@ -8,7 +8,7 @@ sites simples atualmente apenas com Frontend, tais projetos estão em repositór
 
 <div style="display: inline_block"><br> 
 <img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/8eba4a35-cf80-47c2-aa21-dab42fa6d3f1" /> 
-<img align="center" height="110" width="120" src= "https://brandfetch.com/easyeda.com?view=library&library=default&collection=logos&asset=id1PrB4dZz&utm_source=https%253A%252F%252Fbrandfetch.com%252Feasyeda.com&utm_medium=copyAction&utm_campaign=brandPageReferral" />
+<img align="center" height="110" width="120" src= "https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" />
 <img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/ed91bc87-1457-4c84-960a-e6544801f6bd" />
 <img align="center" height="110" width="120" src= "https://avatars.githubusercontent.com/u/64278475?s=280&v=4" />
 <img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/f54cf6d7-613c-49f9-978c-42253bbd7239" />  
