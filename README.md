@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8dba352a-637b-4f48-b79c-9bc37729da43" />## Oi!! Eu sou Frederico Gregório
+## Oi!! Eu sou Frederico Gregório
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredGregorio&show_icons=true&theme=highcontrast)](https://github.com/FredGregorio/github-readme-stats)
 ##
 
