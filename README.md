@@ -2,6 +2,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredGregorio&show_icons=true&theme=highcontrast)](https://github.com/FredGregorio/github-readme-stats)
 ##
 
+Sou estudante de Eng. de Computação na Universidade Federal Rural do Semi-Árido, Bacharel em Ciência e Tecnologia pela mesma instituição. Desenvolvo projetos com Arduino, Esp32 e criação de PCBs. Trabalho no desenvolvimento de
+sites simples atualmente apenas com Frontend, tais projetos estão em repositórios presentes em meu perfil, alem dos projetos com arduino e esp32.
+
+
 <div style="display: inline_block"><br> 
 <img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/8eba4a35-cf80-47c2-aa21-dab42fa6d3f1" /> 
 <img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/ed91bc87-1457-4c84-960a-e6544801f6bd" />
