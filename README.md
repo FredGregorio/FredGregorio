@@ -1,6 +1,7 @@
 ## Oi!! Eu sou Frederico Gregório
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredGregorio&show_icons=true&theme=highcontrast)](https://github.com/FredGregorio/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredGregorio&show_icons=true&theme=highcontrast)](https://github.com/FredGregorio/github-readme-stats)
+## 
 
 Sou estudante de Eng. de Computação na Universidade Federal Rural do Semi-Árido, Bacharel em Ciência e Tecnologia pela mesma instituição. Desenvolvo projetos com Arduino, Esp32 e criação de PCBs com o EasyEDA. Trabalho no desenvolvimento de
 sites simples atualmente apenas com Frontend, tais projetos estão em repositórios presentes em meu perfil, alem dos projetos com arduino e esp32.
