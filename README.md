@@ -4,7 +4,7 @@
 ## 
 
 Sou estudante de Eng. de Computação na Universidade Federal Rural do Semi-Árido, Bacharel em Ciência e Tecnologia pela mesma instituição. Desenvolvo projetos com Arduino, Esp32 e criação de PCBs com o EasyEDA. Trabalho no desenvolvimento de
-sites simples atualmente apenas com Frontend, tais projetos estão em repositórios presentes em meu perfil, alem dos projetos com arduino e esp32.
+sites simples aatualmente com REACT,e aplicativos nativos usando react native, tais projetos estão em repositórios presentes em meu perfil, alem dos projetos com arduino e esp32.
 
 
 <div style="display: inline_block"><br> 
