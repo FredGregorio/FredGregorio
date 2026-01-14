@@ -17,7 +17,7 @@ sites simples atualmente apenas com Frontend, tais projetos estão em repositór
 <img align="center" height="110" width="105" src= "https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" />
 <img align="center" height="110" width="120" src="https://images.ctfassets.net/frd5oskxgr96/16e2P31DJ0brzyiwNvC564/1fa51988d47f3572d9efd14f15dc2246/Vercel_logo_PNG_clr.svg" />
 <img align="center" height="110" width="120" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" />
-
+<img align="center" height="110" width="120" src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" />
 
 </div>
 
