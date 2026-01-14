@@ -14,7 +14,7 @@ sites simples atualmente apenas com Frontend, tais projetos estão em repositór
 <img align="center" height="110" width="120" src= "https://avatars.githubusercontent.com/u/64278475?s=280&v=4" />
 <img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/f54cf6d7-613c-49f9-978c-42253bbd7239" />  
 <img align="center" height="110" width="120" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img align="center" height="210" width="220" src= "https://ik.imagekit.io/1jv3g5xrp/Home/technologies-logo//react-native.svg" />
+<img align="center" height="210" width="220" src= "https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" />
 <img align="center" height="110" width="120" src="https://images.ctfassets.net/frd5oskxgr96/16e2P31DJ0brzyiwNvC564/1fa51988d47f3572d9efd14f15dc2246/Vercel_logo_PNG_clr.svg" />
 <img align="center" height="110" width="120" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" />
 
