@@ -4,7 +4,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FredGregorio.FredGregorio&left_text=Visitantes"  />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredGregorio&show_icons=true&theme=radical)
+
 
 
 Sou estudante de Eng. de Computação na Universidade Federal Rural do Semi-Árido, Bacharel em Ciência e Tecnologia pela mesma instituição. Desenvolvo projetos com Arduino, Esp32 e criação de PCBs com o EasyEDA. Trabalho no desenvolvimento de
