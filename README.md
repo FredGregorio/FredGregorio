@@ -1,7 +1,10 @@
 ## Oi!! Eu sou Frederico Gregório
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FredGregorio.FredGregorio&left_text=Visitantes"  />
+</div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredGregorio&show_icons=true&theme=highcontrast)](https://github.com/FredGregorio/github-readme-stats)
 ## 
+
 
 Sou estudante de Eng. de Computação na Universidade Federal Rural do Semi-Árido, Bacharel em Ciência e Tecnologia pela mesma instituição. Desenvolvo projetos com Arduino, Esp32 e criação de PCBs com o EasyEDA. Trabalho no desenvolvimento de
 sites simples aatualmente com REACT,e aplicativos nativos usando REACT NATIVE, tais projetos estão em repositórios presentes em meu perfil, alem dos projetos com arduino e esp32.
