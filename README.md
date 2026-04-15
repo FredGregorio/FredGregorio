@@ -98,7 +98,7 @@ I study **Computer Engineering** and build real products — from mobile apps to
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Gil4s/compressor_e_conversor">Prisma Files</a></h3>
+      <h3><a href="https://github.com//compressor_e_conversor">Prisma Files</a></h3>
       <p>File compression and conversion tool.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
@@ -122,7 +122,7 @@ I study **Computer Engineering** and build real products — from mobile apps to
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gil4s&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FredGregorio&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
