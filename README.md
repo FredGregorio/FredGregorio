@@ -29,7 +29,7 @@
 I study **Computer Engineering** and build real products — from mobile apps to full web platforms. Currently part of **PrismaDev**, working as a full stack developer. I care about clean code, intentional UI and shipping things that work.
 
 - Focused on **TypeScript**, **React Native** and **Next.js**
-- Learning **Java (OOP)** and deepening **Python**
+- Learning **C++** and embedded systems
 - Based in **Pau dos Ferros, RN — Brazil**
 
 ---
