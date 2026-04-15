@@ -1,48 +1,130 @@
-## Oi!! Eu sou Frederico Gregório
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Frederico%20Gregório&fontSize=52&fontColor=e6edf3&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20I%20build%20stuff&descSize=18&descColor=8b949e&descAlignY=62&animation=fadeIn" width="100%" />
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FredGregorio.FredGregorio&left_text=Visitantes"  />
-</div>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=480&lines=Building+products+people+actually+use.;React+Native+%2B+Next.js+%2B+TypeScript.;Student+%40+Computer+Engineering.;Based+in+Pau+dos+Ferros%2C+BR." alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://br.linkedin.com/in/frederico-greg%C3%B3rio-emidio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/fred.engcomp/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:fred.engcomp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=FredGregorio&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+</p>
 
+---
 
+## About
 
-Sou estudante de Eng. de Computação na Universidade Federal Rural do Semi-Árido, Bacharel em Ciência e Tecnologia pela mesma instituição. Desenvolvo projetos com Arduino, Esp32 e criação de PCBs com o EasyEDA. Trabalho no desenvolvimento de
-sites simples aatualmente com REACT,e aplicativos nativos usando REACT NATIVE, tais projetos estão em repositórios presentes em meu perfil, alem dos projetos com arduino e esp32.
+I study **Computer Engineering** and build real products — from mobile apps to full web platforms. Currently part of **PrismaDev**, working as a full stack developer. I care about clean code, intentional UI and shipping things that work.
 
+- Focused on **TypeScript**, **React Native** and **Next.js**
+- Learning **Java (OOP)** and deepening **Python**
+- Based in **Pau dos Ferros, RN — Brazil**
 
-<div style="display: inline_block"><br> 
-<img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/8eba4a35-cf80-47c2-aa21-dab42fa6d3f1" /> 
-  
-<img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/f54cf6d7-613c-49f9-978c-42253bbd7239" />
+---
 
-<img align="center" height="110" width="120" src= "https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" />
-<img align="center" height="110" width="120" src= "https://github.com/user-attachments/assets/ed91bc87-1457-4c84-960a-e6544801f6bd" />
-<img align="center" height="110" width="120" src= "https://avatars.githubusercontent.com/u/64278475?s=280&v=4" /> 
-<img align="center" height="110" width="120" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img align="center" height="110" width="105" src= "https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" />
-<img align="center" height="110" width="120" src="https://images.ctfassets.net/frd5oskxgr96/16e2P31DJ0brzyiwNvC564/1fa51988d47f3572d9efd14f15dc2246/Vercel_logo_PNG_clr.svg" />
-<img align="center" height="110" width="120" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" />
-<img align="center" height="110" width="120" src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" />
+## Education
 
-</div>
+| Degree | Institution | Status |
+|---|---|---|
+| B.Sc. Ciência e Tecnologia | UFERSA | Graduated |
+| B.Sc. Engenharia da Computação | UFERSA | In progress |
+| Technical — Redes de Computadores | IFBAIANO | In progress |
 
-##
-<div> 
-  <a href="https://www.instagram.com/fred.engcomp?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/frederico-greg%C3%B3rio-emidio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FredGregorio/FredGregorio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FredGregorio/FredGregorio/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FredGregorio/FredGregorio/output/github-contribution-grid-snake.svg">
-</picture>
+## Tech Stack
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,java,c,git,vercel,vscode&theme=dark&perline=10" />
+  </a>
+</p>
 
+---
 
+## Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Gil4s/GP-BONES">GP-BONES</a></h3>
+      <p>Full web platform built with TypeScript and Next.js.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <a href="https://gp-bones.vercel.app"><img src="https://img.shields.io/badge/Live-00c7b7?style=flat-square&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Gil4s/Imperial_Bon-s">Imperial Bonés</a></h3>
+      <p>E-commerce with catalog, orders and production deploy.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <a href="https://imperial-bon-s.vercel.app"><img src="https://img.shields.io/badge/Live-00c7b7?style=flat-square&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Gil4s/E-PALOMBANDO-REACT_NATIVE_ATUALIZADO">E-Palombando</a></h3>
+      <p>Mobile app refactored in Jan 2026 with React Native and TypeScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61dafb" />
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/In%20Progress-f0ad4e?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Gil4s/Intelinvest">Intelinvest</a></h3>
+      <p>Tracking platform for real estate fund investors (FIIs).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/In%20Progress-f0ad4e?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Gil4s/compressor_e_conversor">Prisma Files</a></h3>
+      <p>File compression and conversion tool.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+        <a href="https://prismafiles.vercel.app"><img src="https://img.shields.io/badge/Live-00c7b7?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/In%20Progress-f0ad4e?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Gil4s/Gest-o-do-Time">Gestão do Time</a></h3>
+      <p>Internal PrismaDev tool for team management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/In%20Progress-f0ad4e?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
+---
 
+## Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gil4s&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%" />
